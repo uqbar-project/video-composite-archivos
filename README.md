@@ -7,3 +7,14 @@ Ejercicio base para el video que explica el patrón Composite mediante el ejempl
 
 ## Dominio
 
+Dada una estructura de archivos y directorios, queremos saber:
+
+- el tamaño de un elemento
+  - un archivo tiene el tamaño definido
+  - un directorio tiene el tamaño de todos los archivos contenidos en él y en sus subdirectorios
+
+- si un elemento es grande
+  - un archivo es grande si pesa más de 5 MB
+  - un directorio es grande si tiene más de 2 elementos (sean archivos o directorios) o tiene un tamaño de más de  10 MB
+
+
