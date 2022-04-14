@@ -1,3 +1,3 @@
 
-rootProject.name = "video-strategy-alumnes"
+rootProject.name = "video-composite-archivos"
 
