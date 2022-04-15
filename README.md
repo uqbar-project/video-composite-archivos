@@ -1,7 +1,7 @@
 
 # Ejercicio File System Archivos - Composite
 
-[![build](https://github.com/uqbar-project/video-composite-archivos/actions/workflows/build.yml/badge.svg)](https://github.com/uqbar-project/video-composite-archivos/actions/workflows/build.yml) [![codecov](https://codecov.io/gh/uqbar-project/video-composite-archivos/branch/master/graph/badge.svg?token=9cBieKRuiM)](https://codecov.io/gh/uqbar-project/video-composite-archivos) 
+[![build](https://github.com/uqbar-project/video-composite-archivos/actions/workflows/build.yml/badge.svg)](https://github.com/uqbar-project/video-composite-archivos/actions/workflows/build.yml) [![build](https://github.com/uqbar-project/video-composite-archivos/actions/workflows/build.yml/badge.svg)](https://github.com/uqbar-project/video-composite-archivos/actions/workflows/build.yml) 
 
 Ejercicio base para el video que explica el patrón Composite mediante el ejemplo del File System (archivos).
 
@@ -16,5 +16,3 @@ Dada una estructura de archivos y directorios, queremos saber:
 - si un elemento es grande
   - un archivo es grande si pesa más de 5 MB
   - un directorio es grande si tiene más de 2 elementos (sean archivos o directorios) o tiene un tamaño de más de  10 MB
-
-
